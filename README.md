@@ -10,11 +10,11 @@
 
 1) python3 app.py -part1 "FB:12,PLTR:5000" 
    
-  result: 119887.4`
+  result: 119887.4
 
 2) python3 app.py -part1 "BABA:1,TSLA:5,WISH:1200" 
  
-  result: 9891.9`
+  result: 9891.9
 
 ### you can run any combination
 
@@ -24,11 +24,11 @@
 
 1) python3 app.py -bonus "7,1,5,3,6,4" 
 
-  result: 5` 
+  result: 5 
 
 2) python3 app.py -bonus "7,6,4,3,1"
 
-  result: 0`
+  result: 0
 
 ### you can run any combination
 
