@@ -1,10 +1,10 @@
 
-# Future Capital Coding Interview
+# Coding Interview
 
 ## Run
 ### python3 app.py [-option] [string]
 
-##  Part  1  -  Calculate  the  total  value  of  a  stock  portfolio
+##  Part  1  
 
 ###  Test Cases
 
@@ -18,7 +18,7 @@
 
 ### you can run any combination
 
-## Part 2 - Maximize profits
+## Part 2 
 
 ### Test Cases
 
