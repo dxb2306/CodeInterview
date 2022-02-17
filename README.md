@@ -8,10 +8,12 @@
 
 ###  Test Cases
 
-1) python3 app.py -part1 "FB:12,PLTR:5000"    
+1) python3 app.py -part1 "FB:12,PLTR:5000" 
+   
   119887.4`
 
-2) python3 app.py -part1 "BABA:1,TSLA:5,WISH:1200"  
+2) python3 app.py -part1 "BABA:1,TSLA:5,WISH:1200" 
+ 
   9891.9`
 
 #### you can run any combination
@@ -21,9 +23,11 @@
 ### Test Cases
 
 1) python3 app.py -bonus "7,1,5,3,6,4" 
+
   5` 
 
 2) python3 app.py -bonus "7,6,4,3,1"
+
   0`
 
 #### you can run any combination
